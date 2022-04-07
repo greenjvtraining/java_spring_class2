@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<a href="list">목록보기</a>
+    <h1>Index Page</h1>
+    <hr>
+    <a href="list">목록보기</a>
 </body>
 </html>
